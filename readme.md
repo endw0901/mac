@@ -17,6 +17,8 @@ ctrl + a, eで行の端移動
 
 emac key binding
 ・文字移動・編集
+
+・Command + Control + Fで全画面
 ```
 
 ## terminal
