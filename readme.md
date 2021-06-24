@@ -17,5 +17,6 @@ emac key binding
 
 ```
 command + d で画面分割
-
+command + shift + dで上下分割
+command + [か]でウィンドウ移動
 ```
