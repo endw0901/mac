@@ -52,3 +52,9 @@ https://engineer-life.dev/iterm2-mac/
 ・command + shift + 4で選択範囲のスクショ
 ・command + shift + 4 + spaceでウィンドウスクショ
 ```
+
+# diff
+```
+opendiff file1 file2
+```
+https://reasonable-code.com/filemerge/
