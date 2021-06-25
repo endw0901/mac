@@ -9,6 +9,7 @@ https://www.udemy.com/course/deveff_up/learn/lecture/14569450#overview
 command + l => address bar
 
 ▼emacs key binding
+ctrl + f, bで移動
 ctrl + h , d で削除
 ctrl + kで後ろ全部削除
 
