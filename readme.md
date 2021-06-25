@@ -11,7 +11,10 @@ command + l => address bar
 ▼emacs key binding
 ctrl + f, bで移動
 ctrl + h , d で削除
-ctrl + kで後ろ全部削除
+ctrl + kで後ろ全部削除 uで行削除
+
+option + f, bでword移動
+https://www.engilaboo.com/iterm-word-move/
 
 ctrl + p, nで上下
 ctrl + a, eで行の端移動
