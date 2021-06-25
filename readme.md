@@ -39,6 +39,10 @@ emacs key bindingはそのまま使える
 // 履歴
 ctrl + rでreverse 検索。コマンド履歴を検索できる
 history + !506で506番のコマンドをhistoryから打てる
+
+command + enter 全画面表示
+https://engineer-life.dev/iterm2-mac/
+
 ```
 
 ## screen shot
