@@ -54,6 +54,7 @@ https://engineer-life.dev/iterm2-mac/
 ```
 
 # diff
+- comapre merge tool: https://webkan.hateblo.jp/entry/20150826/p1
 ```
 opendiff file1 file2
 ```
