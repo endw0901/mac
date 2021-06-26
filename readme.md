@@ -26,6 +26,7 @@ emac key binding
 ```
 
 ## terminal
+- https://qiita.com/0084ken/items/8aefabef4fd3cfdf8fce
 
 ```
 command + d で画面分割
