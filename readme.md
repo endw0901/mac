@@ -60,3 +60,8 @@ https://engineer-life.dev/iterm2-mac/
 opendiff file1 file2
 ```
 https://reasonable-code.com/filemerge/
+
+
+
+## google spread
+- コロンで正規表現 ^$で空欄を置換
