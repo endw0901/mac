@@ -46,6 +46,10 @@ https://engineer-life.dev/iterm2-mac/
 
 ```
 
+## vscode
+`brew install visual-studio-code`
+code .が使える
+
 ## screen shot
 
 ```
